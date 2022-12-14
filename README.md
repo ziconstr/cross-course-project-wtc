@@ -1,2 +1,2 @@
-# cross-course-project-zico
+# cross-course-project-wtc
 WTC - Course Assignment
